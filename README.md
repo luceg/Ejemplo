@@ -1,3 +1,1 @@
-# Ejemplo
-este es un ejemplo
-Vazquez Lizama Francisco Joaquin
+Omar Eduardo Tuz Chan 
